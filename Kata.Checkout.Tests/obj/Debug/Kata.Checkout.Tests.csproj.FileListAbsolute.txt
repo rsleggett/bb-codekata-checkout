@@ -1,0 +1,9 @@
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\obj\Debug\Kata.Checkout.Tests.csprojResolveAssemblyReference.cache
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\Kata.Checkout.Tests.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\Kata.Checkout.Tests.pdb
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\Kata.Checkout.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\nunit.framework.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\Kata.Checkout.pdb
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\bin\Debug\nunit.framework.xml
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\obj\Debug\Kata.Checkout.Tests.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout.Tests\obj\Debug\Kata.Checkout.Tests.pdb

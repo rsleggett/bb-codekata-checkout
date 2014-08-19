@@ -1,0 +1,4 @@
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout\bin\Debug\Kata.Checkout.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout\bin\Debug\Kata.Checkout.pdb
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout\obj\Debug\Kata.Checkout.dll
+c:\Projects\DevClub\Kata\Kata.Checkout\Kata.Checkout\obj\Debug\Kata.Checkout.pdb
